@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BrianByte/static/css/main.479369b4.css",
-    "main.js": "/BrianByte/static/js/main.0874ac94.js",
-    "index.html": "/BrianByte/index.html",
-    "main.479369b4.css.map": "/BrianByte/static/css/main.479369b4.css.map",
-    "main.0874ac94.js.map": "/BrianByte/static/js/main.0874ac94.js.map"
+    "main.css": "/BrianByten/static/css/main.479369b4.css",
+    "main.js": "/BrianByten/static/js/main.0874ac94.js",
+    "index.html": "/BrianByten/index.html",
+    "main.479369b4.css.map": "/BrianByten/static/css/main.479369b4.css.map",
+    "main.0874ac94.js.map": "/BrianByten/static/js/main.0874ac94.js.map"
   },
   "entrypoints": [
     "static/css/main.479369b4.css",
